@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+video_3881CE80_3725_AAD6_41C7_05C2CEB7F3A6.label = bandicam 2023-02-06 15-57-38-741
+panorama_3969DC05_372F_ADDE_41B4_DF42BC0B1F56.label = istockphoto-1321116143-1024x1024
+
+### Video
+videolevel_5613C5E0_476B_4F00_4196_9E275487CEC9.url = media/video_3881CE80_3725_AAD6_41C7_05C2CEB7F3A6_en.mp4
+videolevel_5613C5E0_476B_4F00_4196_9E275487CEC9.posterURL = media/video_3881CE80_3725_AAD6_41C7_05C2CEB7F3A6_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 4
